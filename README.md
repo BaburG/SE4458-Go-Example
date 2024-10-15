@@ -14,8 +14,8 @@ To get started with this project, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/notes-golang-example.git
-   cd notes-golang-example
+   git clone https://github.com/BaburG/SE4458-Go-Example
+   cd SE4458-Go-Example
    ```
 
 2. **Set Up Your Environment**:
